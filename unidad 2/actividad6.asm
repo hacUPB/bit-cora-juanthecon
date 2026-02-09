@@ -11,9 +11,11 @@ M=0
     @END
     D;JGE  //si j >= 10
 
+    // arr[j]
+    
     @j
     D=M
-    @1
+    @100
     D=D+A
     A=D
     D=M

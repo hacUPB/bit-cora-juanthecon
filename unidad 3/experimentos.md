@@ -16,4 +16,8 @@ se intenta cambiar de valor var_estatica
 
 experimento 5
 
-se suma 
+la variable no estatica se reinicia cada vez que se llama y las estaticas se quedan como vayan
+
+experimento 6 
+
+busca una variable que no existe en el array

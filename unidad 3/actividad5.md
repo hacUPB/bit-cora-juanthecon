@@ -26,6 +26,47 @@ Llamada a ejecutarContador. Valor de contador_estatico:1
 Llamada a ejecutarContador. Valor de contador_estatico:2
 Llamada a ejecutarContador. Valor de contador_estatico:3
 
-Stack, Heap, Datos Globales/Estáticos, Código
+
+| |
+|--------------------------------------------| 
+|              Segmento de codigo            | 
+|                                        | 
+|                 sumaPorValor                       | 
+|                                  | 
+|--------------------------------------------| 
+|       Variables globales y estáticas       | 
+|                                            | 
+|               contador_global          | 
+|                contador_estatico      | 
+|                            | 
+|--------------------------------------------| 
+|                    Heap                    | 
+|                                            | 
+|--------------------------------------------| 
+|                    Stack                   | 
+|  |
+|                     val_A                       | 
+|                       val_B      | 
+|  val_C     |
+|--------------------------------------------| 
 
 
+
+### Comparacion de la prediccion a la ejecución 
+
+prediccion
+Valor inicial de val_A:20
+Dentro de sumaPorValor, 'a' ahora es:30
+"Valor final de val_A:30
+
+ajecucion
+Valor inicial de val_A:20
+Dentro de sumaPorValor, 'a' ahora es:30
+"Valor final de val_A:20
+
+Solo cambia adentro de su ejecucion luego vuelve a su valor original
+
+
+### comportamiento de contador_estatico
+
+puede guardar y acomular su valor ya que es una variable estatica

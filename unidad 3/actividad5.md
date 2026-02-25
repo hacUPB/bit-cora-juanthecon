@@ -66,6 +66,7 @@ Dentro de sumaPorValor, 'a' ahora es:30
 
 Solo cambia adentro de su ejecucion luego vuelve a su valor original
 
+![alt text](<imagenes/diferencia ejercicio 5.png>)
 
 ### comportamiento de contador_estatico
 

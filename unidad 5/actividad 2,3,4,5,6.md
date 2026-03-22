@@ -86,6 +86,7 @@ El polimorfismo en tiempo de ejecución se logra gracias a los métodos virtuale
 
 Dibujo del polimorfismo en tiempo de ejecución
 
+![alt text](imagenes/diagrama.png)
 
 Caja Particle con puntero _vtable.
 

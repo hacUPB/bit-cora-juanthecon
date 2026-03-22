@@ -86,6 +86,7 @@ El polimorfismo en tiempo de ejecución se logra gracias a los métodos virtuale
 
 Dibujo del polimorfismo en tiempo de ejecución
 
+
 Caja Particle con puntero _vtable.
 
 La vtable apunta a funciones (update, draw).

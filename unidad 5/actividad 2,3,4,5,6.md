@@ -97,5 +97,5 @@ Cada clase derivada tiene su propia vtable con direcciones distintas.
 El puntero Particle* consulta la vtable y ejecuta el método correcto.
 
 ¿Qué relación existe entre métodos virtuales y polimorfismo?  
-Los métodos virtuales permiten que un mismo puntero base invoque distintas implementaciones según el objeto real
+Los métodos virtuales permiten que un mismo puntero base invoque distintas implementaciones según el objeto real y el polimorfismo permite que la misma llamda se comporte de manera diferente
 

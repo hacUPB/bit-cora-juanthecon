@@ -17,11 +17,14 @@ a
 r
 ![alt text](imagenes/r.png)
 
+
 s
 ![alt text](imagenes/s.png)
 
+
 n
 ![alt text](imagenes/n.png)
+
 
 4. ¿Qué crees que está pasando “detrás de cámaras” cuando presionas las teclas? Formula una hipótesis inicial sobre cómo la aplicación cambia el comportamiento de las partículas.
 

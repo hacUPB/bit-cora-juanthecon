@@ -28,4 +28,5 @@ n
 
 4. ¿Qué crees que está pasando “detrás de cámaras” cuando presionas las teclas? Formula una hipótesis inicial sobre cómo la aplicación cambia el comportamiento de las partículas.
 
-se interpolan las suscripciones de las particulas y reaccionan
+se avisan a las particulas suscritas que ocurrio un evento y las particulas reaccionan
+

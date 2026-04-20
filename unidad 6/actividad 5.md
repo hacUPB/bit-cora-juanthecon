@@ -1,7 +1,7 @@
 1. El código fuente completo de tu proyecto openFrameworks.
 
 ![alt text](imagenes/blackholleeee.png)
-![alt text](<imagenes/Captura de pantalla 2026-04-15 112612.png>)
+
 
 
 2. Explica cómo usaste el patrón Factory para esta nueva partícula.

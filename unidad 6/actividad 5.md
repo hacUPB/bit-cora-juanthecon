@@ -1,7 +1,6 @@
 1. El código fuente completo de tu proyecto openFrameworks.
 
-
-![alt text](imagenes/blackhole.png)
+unidad 6/imagenes/blackholleeee.png
 ![alt text](<imagenes/Captura de pantalla 2026-04-15 112612.png>)
 
 

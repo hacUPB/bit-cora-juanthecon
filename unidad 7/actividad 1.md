@@ -1,4 +1,5 @@
 1. 
-unidad 7/imagenes/Captura de pantalla 2026-04-27 102055.png
+![alt text](imagenees/triangle.png)
+
 
 2. que es VAO/VBO y que hace, que es GLFW y que hace, que es GLAD y que hace.

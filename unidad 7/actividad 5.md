@@ -223,7 +223,7 @@ int main()
 ```
 
 ## captura triangulo
-
+![alt text](<imagenees/triangulo maus1.jpeg>)![alt text](<imagenees/triangulo maus2.jpeg>)
 ## explicacion proceso de normalizacion
 El mouse entrega coordenadas en pixeles de ventana: 
 por ejemplo, si la ventana mide 400×400, el rango va de (0,0) en la esquina superior izquierda hasta (400,400) en la esquina inferior derecha.
